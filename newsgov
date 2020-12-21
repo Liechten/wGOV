@@ -1,3 +1,6 @@
 imgui.NewLine()
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("• {336633} хуйня полнейшая.")
+imgui.NewLine()
+imgui.NewLine()
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("• {585858} Скрипт на стадии разработки.")
 imgui.NewLine()
