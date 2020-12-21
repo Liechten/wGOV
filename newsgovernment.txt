@@ -1,5 +1,8 @@
+-- х3 version script
 imgui.Separator()
 imgui.NewLine()
+imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Дата выхода в общий доступ: {FF0000}22.12.2020.")
+imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Тестирование прошло успешно, скрипт выходит в общий доступ..")
 imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Происходит тестирование скрипта.")
 imgui.CenterTextColoredRGB("{585858}Версия {6666ff}0.1 [RELEASE] {585858} {FFFFFF}- {6666ff}0.2 [STABILED]")
 imgui.NewLine()
