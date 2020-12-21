@@ -1,0 +1,3 @@
+imgui.NewLine()
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("• {585858} Скрипт на стадии разработки.")
+imgui.NewLine()
