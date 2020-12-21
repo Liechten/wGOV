@@ -1,4 +1,5 @@
 {
   "latest": "1.0 [RELEASE]",
-  "updateurl": "github.com/Maksim-Avdeenko/wGOV/blob/main/wGOV.lua?raw=true",
+  "updateurl": "https://raw.githubusercontent.com/Gayranyan/FBIAssist/main/wGOV.lua",
+  "priority": "1"
 }
