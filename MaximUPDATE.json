@@ -1,4 +1,1 @@
-{
-  "latest": "0.1 [RELEASE]",
-  "updateurl": "https://raw.githubusercontent.com/Maksim-Avdeenko/wGOV/main/wGOV.lua",
-}
+autoupdate("https://raw.githubusercontent.com/Maksim-Avdeenko/wGOV/main/M..", '['..string.upper(thisScript().name)..']: ', "https://vk.com/avdeenkoo10")
