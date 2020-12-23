@@ -1,0 +1,12 @@
+{ff0000}Последнее редактирование: {585858}23.12.2020
+imgui.NewLine()
+imgui.NewLine()
+									Памятка по первым рангам
+imgui.NewLine()
+{1464eb}[Правительство]:{FFFFFF} Клерк
+{1464eb}[Federal Bureau of Investigation]:{FFFFFF} Стажёр
+{1464eb}[National Guard of San Andreas]:{FFFFFF} Рядовой-рекрут
+{1464eb}[Los Santos Police Department]:{FFFFFF} Студент академии
+{1464eb}[Cable News Network]:{FFFFFF} Стажёр
+{1464eb}[All Saints General Hospital]:{FFFFFF} Практикант
+{1464eb}[Special Weapons Assault Team]:{FFFFFF} Стажёр
