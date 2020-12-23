@@ -1,5 +1,7 @@
 imgui.Separator()
 imgui.NewLine()
+imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Добавлено 'Памятка по первым рангам'")
+imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Добавлено 'Памятка по рангам Правительства'")
 imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Добавлено 'Большой свод РП инструкций' в 'Документация'")
 imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Перенесено 'Связь с разработчиком' и 'Официальный раздел Правительства' в 'Быстрый доступ'")
 imgui.CreatePaddingX(5); imgui.TextColoredRGB("• {FFFFFF} Добавлена переадресация на 'Связь с действующим лидером [FORUM]' в 'Быстрый доступ'")
